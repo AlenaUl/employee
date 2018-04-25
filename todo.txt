@@ -1,0 +1,3 @@
+- закончила на kotlin->config->dev->LogAspekt
+- Settings.kt habe geändert
+-

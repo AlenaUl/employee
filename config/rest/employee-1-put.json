@@ -1,0 +1,9 @@
+{
+    "nachname": "Testput",
+    "email": "Theo@Test.de",
+    "geburtsdatum": "2018-01-01",
+    "skills": [
+        "A",
+        "J"
+    ]
+}

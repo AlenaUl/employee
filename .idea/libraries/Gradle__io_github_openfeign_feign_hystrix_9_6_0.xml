@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.openfeign:feign-hystrix:9.6.0">
+    <CLASSES>
+      <root url="jar://C:/Z/caches/modules-2/files-2.1/io.github.openfeign/feign-hystrix/9.6.0/59a0a56135039ef4fc320fe079ba2994035563fe/feign-hystrix-9.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Z/caches/modules-2/files-2.1/io.github.openfeign/feign-hystrix/9.6.0/c6e8856184c46107b69448fb45f9b73a0cc9261a/feign-hystrix-9.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Z/caches/modules-2/files-2.1/io.github.openfeign/feign-hystrix/9.6.0/269ef63bca25773c8438aecf0049fb9fd38c4173/feign-hystrix-9.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+logging:
+  file: build/logs/application.log
+  level:
+    de.hska: TRACE
+    org.mongodb.driver.cluster: WARN
+    org.apache.kafka.clients.NetworkClient: ERROR
+    org.hibernate.validator.internal.xml.ValidationXmlParser: WARN
+    org.hibernate.validator.internal.xml.ValidationBootstrapParameters: WARN
+    org.junit.jupiter.engine.descriptor.TestInstanceLifecycleUtils: WARN
+    # org.springframework.data.mongodb.core.MongoTemplate
+    # org.springframework.cloud.sleuth
